@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117048572112",
+    "firebase_url": "https://naomiproto-31dae.firebaseio.com",
+    "project_id": "naomiproto-31dae",
+    "storage_bucket": "naomiproto-31dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117048572112:android:c78073709aebfa60f0c6d5",
+        "android_client_info": {
+          "package_name": "com.example.naomiprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117048572112-93t3oaeig0qeih8fr69691j3tf5bhp85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUiU8bVbsDahq6QbxiWhzSOEvsSoc130Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117048572112-93t3oaeig0qeih8fr69691j3tf5bhp85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
